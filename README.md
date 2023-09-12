@@ -1,3 +1,5 @@
+![plot](https://github.com/tom-prendergast-thf/NDL_Unpaid_Carers_NWL/blob/main/ndlbanner.png)
+
 # Networked Data Lab: NDL North-West London analysis on *[please fill in]*
 
 #### Project Status: In-progress
